@@ -11,6 +11,16 @@ Welcome to the Micro-Finance Simple Interest Calculator project! This repository
 
 ## Getting Started
 
+```python
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+```
+
 To get started with the Simple Interest Calculator, follow these steps:
 
 1. Clone the repository:
@@ -22,11 +32,6 @@ To get started with the Simple Interest Calculator, follow these steps:
    ```bash
    cd micro-finance-simple-interest
    ```
-3. Run the script
-  ```bash
-   python simple_interest_calculator.py
-   ```
-Adjust the parameters as needed to calculate different scenarios.
 
 ## Code of Conduct
 We have adopted a Code of Conduct to ensure a positive and inclusive community. Please review and adhere to it in all interactions within this project: Code of Conduct.

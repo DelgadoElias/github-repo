@@ -1,5 +1,8 @@
 # Contributing Guidelines
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+
 Thank you for considering contributing to this project! We appreciate your time and effort to help make this project better.
 
 ## How to Contribute
